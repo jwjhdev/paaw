@@ -1,6 +1,15 @@
 Change Log
 ==========
 
+0.1.1 (2020/04/02)
+------------------
+
+**Added**
+
+* ``paaw/const.py`` for doc and project versioning.
+* ``paaw/endpoints.py`` init API endpoints.
+* ``setup.py`` init package setup.
+
 0.1.0 (2020/04/02)
 ------------------
 
