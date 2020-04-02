@@ -41,13 +41,13 @@ History
 -------
 
 `March 2020
-<https://github.com/jwjhdev/paaw`_:
+<https://github.com/jwjhdev/paaw>`_:
 James Hannah created a github project called ``paaw``.
 
 License
 -------
 
 PAAW's source (v0.1.0+) is provided under the `Simplified BSD License
-<https://github.com/jwjhdev/paaw/LICENSE.txt>`_.
+<https://github.com/jwjhdev/paaw/blob/master/LICENSE.txt>`_.
 
 * Copyright (c), 2020, James Hannah
