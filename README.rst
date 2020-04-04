@@ -4,7 +4,7 @@ PAAW: The Python AFL API Wrapper
 The Python AFL API Wrapper (PAAW) is a Python package that allows for simple 
 access to the AFL.com.au API. 
 
-![Python AFL API Wrapper](https://raw.githubusercontent.com/jwjhdev/paaw/master/paaw/static/paaw/png/paaw-logo-2160.png)
+.. image:: https://raw.githubusercontent.com/jwjhdev/paaw/master/paaw/static/paaw/png/paaw-logo-2160.png
 
 .. _installation:
 
